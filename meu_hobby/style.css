@@ -1,0 +1,43 @@
+*{  
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(209, 196, 245);
+}
+body{
+    margin: 0px 10px 0px 10 px;
+}
+nav{
+   
+}
+nav a{
+
+    color: rgb(255, 255, 202);
+    text-decoration:  none;
+    padding: 10px 10px 10px 10px;
+}
+
+h1, p{
+    color: rgb(rgb(250, 204, 204), rgb(166, 224, 166), rgb(98, 98, 158))
+}
+img{
+width: 250px;
+}
+.lado-lado {
+   
+}
+#FUTEBOL{
+    height: 50vh;
+}
+
+#CORINTHIANS{
+    margin-top: 10vh;
+}
+
+#CAMISA-ATUAL{
+     margin-top: 10vh;
+}
+.lado-lado{
+    font-size: 30px;
+}
+
