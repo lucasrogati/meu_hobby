@@ -1,20 +1,22 @@
 *{  
-    padding: 0;
+    padding: 20px 10px 10px;
     margin: 0;
     box-sizing: border-box;
-    background-color: rgb(209, 196, 245);
+    color: aliceblue;
 }
 body{
-    margin: 0px 10px 0px 10 px;
+    background-image: url(/meu_hobby/imagem/fundopreto.png);
+    background-repeat: repeat;
+    background-position: top left;
+    background-size: auto auto;
 }
-nav{
-   
-}
+
 nav a{
 
     color: rgb(255, 255, 202);
     text-decoration:  none;
     padding: 10px 10px 10px 10px;
+    font-size: 40px
 }
 
 h1, p{
@@ -23,21 +25,35 @@ h1, p{
 img{
 width: 250px;
 }
-.lado-lado {
-   
-}
+
 #FUTEBOL{
     height: 50vh;
 }
 
-#CORINTHIANS{
-    margin-top: 10vh;
+#CORINTHIANS {
+    margin-top: 5vh;
+    
 }
 
 #CAMISA-ATUAL{
-     margin-top: 10vh;
+     margin-top: 5vh;
+    
 }
 .lado-lado{
     font-size: 30px;
 }
 
+
+#inicio h1{
+    font-size: 35px;
+}
+
+#CORINTHIANS H1{
+    font-size: 35px ;
+}
+
+
+#CAMISA-ATUAL h1{
+
+    font-size: 35px;
+}
